@@ -1,6 +1,6 @@
 ![logo](https://github.com/priyamdavra/priyamdavra/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Priyam Davra</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFJbBtU560DubzNmtzJanEmjNuuj2ARgNfg&s">
 
