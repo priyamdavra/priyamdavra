@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamdavra&label=Profile%20views&color=0e75b6&style=flat" alt="priyamdavra" /> </p>
 
-<p align="left"> <a href="https://twitter.com/priyamdavra07" target="blank"><img src="https://img.shields.io/twitter/follow/priyamdavra07?logo=twitter&style=for-the-badge" alt="priyamdavra07" /></a> </p>
-
 - 🌱 I’m currently learning **NodeJS, AngularJS, MongoDB**
 
 - 📫 How to reach me **priyamdavra@gmail.com**
